@@ -1,5 +1,5 @@
 <HTML>
-<form style"absolute" action='login page.php' method='post'>
+<form style"absolute" action='login.php' method='post'>
 <IMG SRC="images.jpg" ALT="" style="width:750px;height:500px;" border="0">
  <div style="position: absolute; left: 0px; top: 0px;"> 
  <br><br><br><br><br><br><br><br><br><br><br><br>
