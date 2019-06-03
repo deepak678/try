@@ -9,7 +9,7 @@
                                                    <input type='submit' value='login'>
 											<br><br><br><br><br><br><br><br><br><br><br> 
  <a href='register.php'>Register?</a>
- <br><br><br>MAKE SURE CAPSLOCK IS OFF
+ <br><br><br>MAKE SURE CAPSLOCK IS OFF hello
  </pre>
  </form>
 <BR>
